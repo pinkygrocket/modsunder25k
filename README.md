@@ -6,17 +6,17 @@ Suggest mods to add or changes on the issues page.
 
 # Table of contents
 
-* Inclusion criteria
-* Organization
-    * Category
-    * Modloader
-    * Source availability
-    * Needed on
-    * Version
-    * Other tags
-* The List
-    * Bauble Mounts
-    * Kakapos
+* [Inclusion criteria](https://github.com/pinkygrocket/modsunder25k#inclusion-criteria)
+* [Organization](https://github.com/pinkygrocket/modsunder25k#organization)
+    * [Category](https://github.com/pinkygrocket/modsunder25k#category)
+    * [Modloader](https://github.com/pinkygrocket/modsunder25k#modloader)
+    * [Source availability](https://github.com/pinkygrocket/modsunder25k#source-availability)
+    * [Needed on](https://github.com/pinkygrocket/modsunder25k#needed-on)
+    * [Version](https://github.com/pinkygrocket/modsunder25k#version)
+    * [Other tags](https://github.com/pinkygrocket/modsunder25k#other-tags)
+* [The List](https://github.com/pinkygrocket/modsunder25k#the-list)
+    * [Bauble Mounts](https://github.com/pinkygrocket/modsunder25k#bauble-mounts)
+    * [Kakapos](https://github.com/pinkygrocket/modsunder25k#kakapos)
 
 # Inclusion criteria
 
