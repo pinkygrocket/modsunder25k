@@ -1,6 +1,6 @@
 # modsunder25k
 
-While developing [Pinky's Peculiar Pack](https://github.com/pinkygrocket/pinkys-peculiar-pack), I've been doing a lot of digging through the depths of Curseforge, and have found some pretty cool mods that have been overlooked or just really haven't had their chance to shine. I've created lists and shouted out mods in various places, but I'm creating a list as a GitHub repo - both as a central public place to manage this list and to accept contributions/suggestions from others.
+While developing [Pinky's Peculiar Pack](https://github.com/pinkygrocket/pinkys-peculiar-pack), I've been doing a lot of digging through the depths of CurseForge, and have found some pretty cool mods that have been overlooked or just really haven't had their chance to shine. I've created lists and shouted out mods in various places, but I'm creating a list as a GitHub repo - both as a central public place to manage this list and to accept contributions/suggestions from others.
 
 Suggest mods to add or changes on the issues page.
 
@@ -16,6 +16,7 @@ Suggest mods to add or changes on the issues page.
     * Other tags
 * The List
     * Bauble Mounts
+    * Kakapos
 
 # Inclusion criteria
 
@@ -87,6 +88,7 @@ Self-explanatory. I will not be listing snapshots for version tags.
 
 * **1.21**
 * **1.20.1**
+* **1.20**
 * **1.19.2**
 * **1.18.2**
 
@@ -106,3 +108,11 @@ Tags to indicate features/information that may be of interest to packdevs and pl
 * **Source code**: [GitHub](https://github.com/ShadowKing21228/Bauble-Mounts)
 
 Carry mounts (pigs, horses, etc.) in an equippable accessory that you can deploy with a keyboard shortcut.
+
+## Kakapos
+
+* **Tags**: Mobs, Forge, Source-available, 1.19.2, 1.20, 1.20.1
+* **Download links**: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/kakapos)
+* **Source code**: [GitHub](https://github.com/jocosero/kakapos)
+
+Adds flightless birds in jungles that follow you around and dance to music. (If you're familiar with the Party Parrot meme, that's a kakapo.)
