@@ -108,7 +108,7 @@ Tags to indicate features/information that may be of interest to packdevs and pl
  
 # The List
 
-# Aether Lootr Compat
+## Aether Lootr Compat
 
 * **Tags**:
 * **Download links**:
