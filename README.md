@@ -126,9 +126,9 @@ Carry mounts (pigs, horses, etc.) in an equippable accessory that you can deploy
 
 ## Cogs of Carminite
 
-* **Tags**:
-* **Download links**:
-* **Source code**:
+* **Tags**: Addon, Crosscompat, Technology/Redstone, Forge, Open-source, 1.20.1
+* **Download links**: [CurseForge](https://legacy.curseforge.com/minecraft/mc-mods/cogs-of-carminite)
+* **Source code**: [GitHub](https://github.com/TeamTwilight/CogsOfCarminite)
 
 Cross-compatibility mod between Create and The Twilight Forest, mainly adding some machines to automate some of Twilight Forest's features.
 
@@ -138,7 +138,7 @@ Cross-compatibility mod between Create and The Twilight Forest, mainly adding so
 * **Download links**:
 * **Source code**:
 
-Adds a delay between lighting strikes and the thunder sound effect to add realism and replaces the thunder sound effects.
+Adds a delay between lightning strikes and the thunder sound effect to add realism and replaces the thunder sound effects.
 
 ## Do A Flip
 
