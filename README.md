@@ -20,7 +20,7 @@ Suggest mods to add or changes on the issues page.
 
 # Inclusion criteria
 
-* The mod must be below 25,000 downloads. For mods posted on both Curseforge and Modrinth, this is not cumulative. I may make a "Scaled Out" section for mods that have grown too large to include on the main list, but were included in the past.
+* The mod must be below 25,000 downloads. For mods posted on both Curseforge and Modrinth, this is not cumulative across sites. However, it is cumulative across different listings on the same site- e.g. seperate posts for Forge and Fabric. I may make a "Scaled Out" section for mods that have grown too large to include on the main list, but were included in the past.
 * Ideally, the mod should be posted on CurseForge or Modrinth. No mods hosted by mirror/repost sites. I may post mods from other sites under certain circumstances, if they were posted by the author.
 * No mods made with MCreator.
 * No mods created for hacking, cheating, or piracy.
@@ -105,14 +105,14 @@ Tags to indicate features/information that may be of interest to packdevs and pl
 * **Lowcode** - This mod is a lowcode mod, i.e. it is a resourcepack and datapack in a trenchcoat.
 * **Experimental** - This mod is in an alpha test and may be unstable.
 * **Modloader fork** - This mod has been forked to support a different modloader. For ease of navigation, both mods are listed under the same entry.
- 
+  
 # The List
 
 ## Aether Lootr Compat
 
-* **Tags**:
-* **Download links**:
-* **Source code**:
+* **Tags**: Addon, Crosscompat, Mobs, Forge, Open-source, 1.20.1
+* **Download links**: [CurseForge](https://github.com/zoom-packers/zoomers_aether_compat_forge)
+* **Source code**: [GitHub](https://github.com/zoom-packers/zoomers_aether_compat_forge)
 
 Fixes a bug between Aether Legacy and Lootr where textures would not be rendered correctly on Mimics.
 
@@ -134,9 +134,9 @@ Cross-compatibility mod between Create and The Twilight Forest, mainly adding so
 
 ## Delayed Thunder
 
-* **Tags**:
-* **Download links**:
-* **Source code**:
+* **Tags**: Aesthetics, Forge, Source-available, 1.20.1, 1.20.4
+* **Download links**: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/delayed-thunder)
+* **Source code**: [GitHub](https://github.com/Lyigh/Delayed_Thunder)
 
 Adds a delay between lightning strikes and the thunder sound effect to add realism and replaces the thunder sound effects.
 
@@ -166,7 +166,7 @@ Adds low-tech jetpacks that use vanilla fireworks instead of fuel or energy.
 
 ## Fragile Newborns
 
-* **Tags**:
+* **Tags**: Mobs
 * **Download links**:
 * **Source code**:
 * 
@@ -190,8 +190,8 @@ Adds [kakapo](https://en.wikipedia.org/wiki/K%C4%81k%C4%81p%C5%8D), flightless b
 
 ## Pyrotechnic Elytra
 
-* **Tags**:
-* **Download links**:
+* **Tags**: Asethetics, Transportation, Forge, Fabric, NeoForge, Open-source, 1.18.2, 1.19.2, 1.19.4, 1.20.1, 1.20.2, 1.20.4, 1.12
+* **Download links**: 
 * **Source code**:
 
 ## Rainbow Reef
