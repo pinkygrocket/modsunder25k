@@ -15,8 +15,6 @@ Suggest mods to add or changes on the issues page.
     * [Version](https://github.com/pinkygrocket/modsunder25k#version)
     * [Other tags](https://github.com/pinkygrocket/modsunder25k#other-tags)
 * [The List](https://github.com/pinkygrocket/modsunder25k#the-list)
-    * [Bauble Mounts](https://github.com/pinkygrocket/modsunder25k#bauble-mounts)
-    * [Kakapos](https://github.com/pinkygrocket/modsunder25k#kakapos)
 
 # Inclusion criteria
 
@@ -166,17 +164,16 @@ Adds low-tech jetpacks that use vanilla fireworks instead of fuel or energy.
 
 ## Fragile Newborns
 
-* **Tags**: Mobs
-* **Download links**:
-* **Source code**:
-* 
+* **Tags**: Mobs, Forge, Fabric, Closed-source, 1.16.5, 1.18, 1.18.1, 1.18.2, 1.19, 1.19.1, 1.19.2, 1.19.3, 1.19.4, 1.20, 1.20.1, 1.20.2
+* **Download links**: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fragile-newborns)
+
 Halves the max health of all baby mobs.
 
 ## Gilded Sherds
 
-* **Tags**:
-* **Download links**:
-* **Source code**:
+* **Tags**: Buidling, Forge, Fabric, NeoForge, Source-available, 1.20.1, 1.20.2, 1.20.3, 1.20.4
+* **Download links**: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gilded-sherds)
+* **Source code**: [GitHub](https://github.com/Darkhax/Gilded-Sherds)
 
 Adds golden variants of pottery sherds.
 
@@ -190,9 +187,11 @@ Adds [kakapo](https://en.wikipedia.org/wiki/K%C4%81k%C4%81p%C5%8D), flightless b
 
 ## Pyrotechnic Elytra
 
-* **Tags**: Asethetics, Transportation, Forge, Fabric, NeoForge, Open-source, 1.18.2, 1.19.2, 1.19.4, 1.20.1, 1.20.2, 1.20.4, 1.12
-* **Download links**: 
-* **Source code**:
+* **Tags**: Asethetics, Transportation, Forge, Fabric, NeoForge, Open-source, Client-optional 1.18.2, 1.19.2, 1.19.4, 1.20.1, 1.20.2, 1.20.4, 1.12
+* **Download links**: [CurseForge](https://www.curseforge.com/minecraft/mc-mods/pyrotechnic-elytra)
+* **Source code**: [GitHub](https://github.com/Crystal-Nest/pyrotechnic-elytra)
+
+Fireworks with any color, shape or effect can now be used to boost while using Elytra.
 
 ## Rainbow Reef
 
